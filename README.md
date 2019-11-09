@@ -1,6 +1,6 @@
 # football
 
-## https://t.me/predatorofimagesbot
+## https://t.me/predatorofimagesbot - link to the telegram-bot
 
 build_the_model.ipynb - Jupyter notebook with details of development of predictive model
 
