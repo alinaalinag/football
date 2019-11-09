@@ -1,5 +1,7 @@
 # football
 
+## https://t.me/predatorofimagesbot
+
 build_the_model.ipynb - Jupyter notebook with details of development of predictive model
 
 bot.py - deployed to the Telegram API bot
