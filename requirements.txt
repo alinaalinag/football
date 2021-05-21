@@ -33,7 +33,7 @@ six==1.10.0
 smmap==0.9.0
 sqlparse==0.1.19
 stevedore==1.10.0
-tensorflow==2.0.0b1
+tensorflow==2.5.0rc0
 virtualenv==14.0.5
 virtualenv-clone==0.2.6
 virtualenvwrapper==4.7.1
