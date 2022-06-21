@@ -15,7 +15,7 @@ gitdb==0.6.4
 GitPython==1.0.2
 joe==0.0.7
 lazy-object-proxy==1.2.1
-numpy==1.17.3
+numpy==1.22.0
 olefile==0.46
 pandas==0.25.3
 pbr==1.8.1
